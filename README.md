@@ -6,6 +6,6 @@ Libraries used:
 1. Pandas
 2. Numpy
 3. Matplotlib (for visualization)
-4. PySQL (for SQL queries)
+4. PandaSQL (for SQL queries)
 5. Top2Vec (for topic modelling)
 
